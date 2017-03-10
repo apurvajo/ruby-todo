@@ -185,7 +185,6 @@ DEPENDENCIES
   coffee-rails (~> 4.2)
   jbuilder (~> 2.5)
   jquery-rails
-  listen
   mongoid (~> 6.0.3)
   puma (~> 3)
   rack-cors
